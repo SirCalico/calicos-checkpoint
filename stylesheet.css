@@ -1,9 +1,18 @@
+@font-face {
+  font-family: "Patrick Hand";
+  src: url("./PatrickHand-Regular.ttf");
+}
 body {
-    background-color: lightblue;
-  }
-  
-  h1 {    
-    color: navy;
+  background-color: #461266;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+h1 {   
+  font-family: "Patrick Hand";
+
+    color: white;
     margin-left: 20px;
-    font-style: italic;
+    text-align: center;
   }
